@@ -10,6 +10,14 @@ var int3 = 21.001
 
 // Multi-lines strings
 
-let result = "This is a phrase that you can call it 'String'\nand the result is this."
+var result = "This is a phrase that you can call it 'String'\nand the result is this."
+
+print(result)
+
+result = """
+If you want, you can put a
+triple quotes to this message
+an the resulti will be three lines of strings
+"""
 
 print(result)
