@@ -21,3 +21,7 @@ an the resulti will be three lines of strings
 """
 
 print(result)
+
+var att = "just for the green"
+
+print(att)
