@@ -25,3 +25,6 @@ print(result)
 var att = "just for the green"
 
 print(att)
+
+att = "another green day"
+print(att)
