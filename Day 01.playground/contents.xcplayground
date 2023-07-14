@@ -6,5 +6,8 @@
         <page name='03 Multi-line strings'/>
         <page name='04 Doubles and booleans'/>
         <page name='05 Strings interpolation'/>
+        <page name='06 Constants'/>
+        <page name='07 Type annotations'/>
+        <page name='08 Simple types summary'/>
     </pages>
 </playground>
