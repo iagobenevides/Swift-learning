@@ -14,17 +14,4 @@ var result = "This is a phrase that you can call it 'String'\nand the result is 
 
 print(result)
 
-result = """
-If you want, you can put a
-triple quotes to this message
-an the resulti will be three lines of strings
-"""
 
-print(result)
-
-var att = "just for the green"
-
-print(att)
-
-att = "another green day"
-print(att)
