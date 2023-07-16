@@ -5,5 +5,6 @@
         <page name='02 Sets'/>
         <page name='03 Tuples'/>
         <page name='04 Difference betwen them'/>
+        <page name='05 Dictionaries'/>
     </pages>
 </playground>
