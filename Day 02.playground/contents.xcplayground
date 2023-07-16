@@ -7,5 +7,6 @@
         <page name='04 Difference betwen them'/>
         <page name='05 Dictionaries'/>
         <page name='06 Dictionaries default values'/>
+        <page name='07 Creating empty collections'/>
     </pages>
 </playground>
