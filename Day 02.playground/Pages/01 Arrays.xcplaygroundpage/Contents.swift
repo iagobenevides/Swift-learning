@@ -1,5 +1,7 @@
 // Arrays
 
+import UIKit
+
 let array01 = ["A","B","C","D","E"]
 print(array01[1])
 array01[4]

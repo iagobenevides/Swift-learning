@@ -1,5 +1,7 @@
 // Tuples
 
+import UIKit
+
 var array01 = (Name: "Iago", Surname: "Benevides", age: 21)
 print(array01)
 array01.1

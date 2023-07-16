@@ -1,5 +1,7 @@
 // Dictionarie default values
 
+import UIKit
+
 let BestTeam = [
     "Iago": "Ceará",
     "Tamires": "Vasco"

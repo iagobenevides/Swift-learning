@@ -1,5 +1,7 @@
 // Sets
 
+import UIKit
+
 let array02 = Set(["A","B","C","D","E"])
 print(array02)
 array02

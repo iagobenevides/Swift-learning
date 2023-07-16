@@ -1,5 +1,7 @@
 // Dictionaries
 
+import UIKit
+
 let times = [
     "Rio de Janeiro": "Vasco",
     "Ceará": "Ceará"

@@ -8,5 +8,6 @@
         <page name='05 Dictionaries'/>
         <page name='06 Dictionaries default values'/>
         <page name='07 Creating empty collections'/>
+        <page name='08 Enumerations'/>
     </pages>
 </playground>

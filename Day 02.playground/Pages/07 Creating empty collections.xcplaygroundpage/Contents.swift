@@ -1,5 +1,7 @@
 // Creating empty collections
 
+import UIKit
+
 var teams = [String: String]()
 teams["Iago"] = "Ceará"
 teams
