@@ -9,5 +9,6 @@
         <page name='06 Dictionaries default values'/>
         <page name='07 Creating empty collections'/>
         <page name='08 Enumerations'/>
+        <page name='09 Enums associated values'/>
     </pages>
 </playground>
