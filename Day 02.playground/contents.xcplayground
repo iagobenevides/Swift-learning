@@ -10,5 +10,6 @@
         <page name='07 Creating empty collections'/>
         <page name='08 Enumerations'/>
         <page name='09 Enums associated values'/>
+        <page name='10 Enum raw values'/>
     </pages>
 </playground>
